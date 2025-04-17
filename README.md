@@ -12,7 +12,7 @@ A Go-based web service that processes receipts and calculates reward points base
 
 ## Prerequisites
 
-- Go 1.21 or later
+- Go 1.24.1 or later
 - SQLite3
 
 ## Installation
